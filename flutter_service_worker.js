@@ -3,7 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0b0f8b5bb762df8e19a737ea0b323f27",
+  ".idea/misc.xml": "d4f288593ec15175e0ab2246a477dada",
+".idea/modules.xml": "9e76b956e97dbf7d14a4b3d83c8c2375",
+".idea/vcs.xml": "934f1b0e454736c61b2217e8a8a87b03",
+".idea/web.iml": "24742e734b568c3f23d56498828ad0f3",
+".idea/workspace.xml": "c075420f66a1c82e0a5a62b36cde973b",
+"assets/AssetManifest.json": "0b0f8b5bb762df8e19a737ea0b323f27",
 "assets/assets/icons/add_icon.png": "551cb78c4a9fad5d90aaccf15bc3a913",
 "assets/assets/icons/arrow_right_icon.png": "8e4c6a03b7134ee5d546518e8fa0b30e",
 "assets/assets/icons/avatar_icon.png": "d824a920bac35f427fd14405bca3a2d8",
@@ -60,7 +65,7 @@ const RESOURCES = {
 "assets/assets/images/gammatom_logo_cs.png": "2487aaa8bcee9acd6f00c86a93ab8e1c",
 "assets/assets/images/gammaton_login_frame.png": "1f165a9623e7c24ad80826bda798e6be",
 "assets/assets/images/gammaton_logo.png": "d3104535449bc9cf58723e736870fabd",
-"assets/assets/translations/it.json": "c4fbbf8811ac3c3a5701c8c221a2673a",
+"assets/assets/translations/it.json": "1a30a7075cef1d88c5e8f170b04f9a92",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "63225596efb8d66a01e9b9da1f349946",
@@ -78,9 +83,9 @@ const RESOURCES = {
 "images/android-chrome-192x192.png": "8c884379a16d92c4073f8cae6f472c55",
 "images/android-chrome-512x512.png": "3406766a46e3774d13928223250d41cc",
 "images/apple-touch-icon.png": "5816096ed5a00ca2f5444e7be08de514",
-"index.html": "45636d62c0265cfe829a1465fe566374",
-"/": "45636d62c0265cfe829a1465fe566374",
-"main.dart.js": "d6b786b256c09b9885a5c114080581c6",
+"index.html": "f31f25abbf098ca9c9e0172d416e3dd8",
+"/": "f31f25abbf098ca9c9e0172d416e3dd8",
+"main.dart.js": "0c051bc25f53ac67ebd13d4e02fd9b12",
 "manifest.json": "0302c781d3783f68a2e3af97382ae948",
 "version.json": "3728628b2598c2d44ea1a861542a3daf"
 };
